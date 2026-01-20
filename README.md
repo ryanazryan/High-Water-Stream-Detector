@@ -1,5 +1,5 @@
 # HWSD - High Water Stream Detector 🌊
-> **1st Runner Up (Juara Harapan I)** - Appropriate Technology Competition 2024 (Banjarbaru City Level)
+> **1st Runner Up** - Appropriate Technology Competition 2024
 
 HWSD is an **IoT-based Flood Early Warning System** designed to monitor river water levels in real-time and provide early alerts to local communities. This platform integrates hardware sensors with a robust web dashboard to visualize data and predict flood risks.
 
